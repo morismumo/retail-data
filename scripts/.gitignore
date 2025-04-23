@@ -1,3 +1,2 @@
 *.env
 *.ruff_cache
-mydata/
